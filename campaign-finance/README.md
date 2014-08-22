@@ -26,10 +26,6 @@ Details
 | Data Types | .txt |
 | Describe this dataset | A searchable database of campaign finance records (expenditures, balances, party/individual contributions) for Philadelphia-related elections. Records are searchable by cycle, office, party, candidate name, contributor name, and other parameters. Results are freely viewable and printable and some information is available as PDF records or as text files. |
 | Are there usage limitations? | No |
-| How was the data collected?	|  |
-| Why was the data collected?	|  |
-| Who is the intended audience?	| Anyone with an interest in the financing of Philadelphia political campaigns. |
-| Why should the data be included in this site? |	 |
 
 
 
