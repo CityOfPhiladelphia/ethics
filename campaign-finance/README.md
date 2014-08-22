@@ -16,13 +16,13 @@ Details
 | Data set/API/App Name | Campaign Finance Data |
 | Organization | City of Philadelphia, Department of Records |
 | Copyright Holder | City of Philadelphia, Board of Ethics |
-| Contact E-mail | lobbying@phila.gov |
+| Contact URL | http://www.phila.gov/records/campaignfinance/CampaignFinance.html |
 | Contact Phone | (215) 686-9450 |
 | Data URL | ftp://ftp.phila-records.com/ |
 | Application URL | https://phila-records.com/campaign-finance/web/ |
 | Valid Time Period | 2006 to 2014 |
 | Release Date | 04/12/11 |
-| Update Frequency |  |
+| Update Frequency | Monthly |
 | Data Types | .txt |
 | Describe this dataset | A searchable database of campaign finance records (expenditures, balances, party/individual contributions) for Philadelphia-related elections. Records are searchable by cycle, office, party, candidate name, contributor name, and other parameters. Results are freely viewable and printable and some information is available as PDF records or as text files. |
 | Are there usage limitations? | No |
