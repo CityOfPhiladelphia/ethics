@@ -25,8 +25,6 @@ Details
 | Are there usage limitations? | No |
 | How was the data collected?	| Data was submitted to PLIS by lobbyists, lobbying firms, and principals. |
 | Why was the data collected?	| The data was collected both to comply with City Code Chapter 20-1200 (and Board | Regulation No. 9) and more generally to provide the public insight as to the outside interests who speak with City government officials so as to shape policy. |
-| Who is the intended audience?	| Anyone with an interest in the people lobbying City government |
-| Why should the data be included in this site? |	The lobbying data collected by PLIS is a public record intended to make the legislative and executive process more transparent by providing the public with a clear picture of all of the outside interests involved in policy discussions. |
 
 
 Field Descriptions
