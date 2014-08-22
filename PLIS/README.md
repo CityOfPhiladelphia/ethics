@@ -4,7 +4,10 @@ Data on Lobbying activity reported by principals, lobbying firms, and lobbyists 
 Registration data is collected annually and contains all individuals and organizations registered as principals, lobbying firms, or lobbyists of the City in the course of the year. 
 Expense reports are filed quarterly by any registered principal starting the quarter in which they registered.   Expense Report data contains detailed reporting of communications with City officials and employees on behalf of principals if the principals spent $2500 or more on their lobbying activity in the quarter.  If the principals spend less than $2500, then their report only states that they did not exceed the $2500 threshold necessary to trigger detailed reporting.  
 
+Download data from [PLIS website](http://plis.cloudapp.net/Public/wfSearch.aspx) (click on "Export All)
 
+Details
+--------------------------
 
 | Attribute | Details |
 | ---------- |--------------|
