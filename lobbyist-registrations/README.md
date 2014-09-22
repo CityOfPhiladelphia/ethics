@@ -22,8 +22,6 @@ Details
 | Contact Phone | (215) 686-9450 |
 | Data API or App URL | http://plis.cloudapp.net/Public/wfSearch.aspx |
 | Valid Time Period | Ongoing |
-| Release Date |  |
-| Update Frequency |  |
 | Data Types | .csv and .pdf |
 | Describe this dataset | A searchable database of registration and expense report information describing reportable lobbying activity in the City of Philadelphia. Records are searchable by multiple parameters.  Results are freely viewable and printable and are available as either pdf or csv files. |
 | Are there usage limitations? | No |
